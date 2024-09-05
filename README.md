@@ -1,4 +1,4 @@
- [![MasterHead](http://hizliresim.com/h0t3q5r
+ [![MasterHead](http://hizliresim.com/h0t3q5r)
 
 <h1 align="center">Hi 👋, I'm Emre ALTIN</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
