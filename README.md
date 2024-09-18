@@ -46,6 +46,8 @@
 
 ## 👾  What I am interested in learning at some point
 
+[<img src="https://img.shields.io/badge/Swift-282C34?logo=swift&logoColor=339933" alt="Swift logo" title="Swift" height="25" />][learning_next_anchor]
+&nbsp;
 [<img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=339933" alt="Node.js logo" title="Node.js" height="25" />][learning_next_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=FFFFFF" alt="Next.js logo" title="Next.js" height="25" />][learning_next_anchor]
