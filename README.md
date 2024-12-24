@@ -3,7 +3,7 @@
 <h3 align="center">I am a passionate software developer from Turkey</h3>
 
 
-- 👨‍💻 You can find more information by visiting my website [emrealtin.site](https://emrealtin.site)
+- 👨‍💻 You can find more information by visiting my website [Emre Altın]([https://emrealtin.site](https://emrealtnn.github.io/))
 
 - 📫 How to reach me **emrealtin1107@gmail.com**
 
